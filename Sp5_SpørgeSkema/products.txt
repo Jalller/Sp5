@@ -1,0 +1,8 @@
+hej:1:3
+hallo:2:5
+Goddav:2:1
+greentest:1:4
+greengreengreen:1:3
+veryBadProduct:2:0
+veryGoodProduct:1:10
+indefiniteProduct:0:4

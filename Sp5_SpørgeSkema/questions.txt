@@ -1,0 +1,10 @@
+Er dit produktet produceret i Europa?:Dit produkt skal være produceret i Europa
+Er produktet økologisk?:Dit produkt er ikke økologisk
+Erstatter produktet en engangsartikel?:Dit produkt erstatter ikke en engangsartikel
+Er produktet plastikfrit?:Dit produkt er ikke plastikfrit
+Er produktet lavet på genanvendte materialer?:Dit produkt er ikke genanvendeligt
+Ingen eller minimale mængder kemikalier?:Det er problematisk med for meget kemikalier i et produkt
+Er produktet baseret på naturlige og hurtigt voksende planter?:Dit produkt er ikke baseret på naturlige og hurtigt voksende planter
+Bruges der bæredygtig indpakning af produktet?:Der bruges ikke bæredygtigt indpakning
+Er produktet ikke testet på dyr?:produktet er testet på dyr
+Donerer eller bidrager virksomheden bag til et bæredygtigt formål?:Virksomheden bidrager ikke til et bæredygtigt formål
